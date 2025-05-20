@@ -1,0 +1,138 @@
+body{ padding: 0;
+margin: 0;}
+
+.main{
+height: 100vh;
+background-image: url(drew-coffman-1872.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin-bottom: 60;}
+
+
+
+.main .text-links ul li{display: inline-block;}
+
+
+.main .text-links ul li a{ color: white;
+text-decoration: none;
+margin: 0 20px;}
+
+
+.main  .logo{float: left;
+    margin:25px 50px 0px;}
+
+.text-links{float: right;
+margin: 30px 100px 0px;
+font-size: larger;}
+
+
+.clear-fix{clear: both;}
+
+
+.text-contant{text-align: center; 
+    color: rgb(255, 255, 255); 
+    margin-top: 10%;
+font-size: larger;}
+
+#font{font-style:italic;}
+
+.second-img{margin:100px 100px 0px ;  background-color: rgb(255, 255, 255);30 
+
+ }
+
+
+.icons{ padding: 5%; width: 400px; float: right; background-color: rgb(255, 255, 255); margin: 10PX 60PX 20PX ;}} 
+
+
+
+
+
+
+
+
+
+#third{ margin-top: 100px; }
+
+
+
+#third .imge3{float: right; margin-top: 120px; background-color: aquamarine;}
+
+
+
+#text-3{padding: 6%;   margin-top:15%; float: left;   width: 500px; background-color: rgb(255, 255, 255);}
+
+
+#words{ text-align: center; padding: 16%; background-color: rgb(255, 255, 255);}
+
+#words h4{color: rgb(139, 163, 174);}
+
+
+
+#page3{ background-color: rgb(255, 255, 255);}
+
+#page3 .p1{padding: auto; text-align: center; width: 33%; float: left; background-color: rgb(255, 255, 255);}
+
+.map table td{ margin-right: 10px; float: left; margin-top: 18%;
+background-color: rgb(255, 255, 255);}
+
+.map table{ margin-bottom:12.5% ; margin-right: 25%; float: left;  padding:0%; ; background-color: rgb(255, 255, 255);}
+
+
+
+.map table td img{background-color:#8e7754; width: 50px;}
+
+.map iframe{width: 40%; height: 85%; margin-top:12.5%; float: right; background-color: rgb(255, 255, 255);
+;}
+
+.map .title{margin-top: 12%; width: 300px; padding-right: 10%; float: left;   background-color: rgb(255, 255, 255);}
+
+.map .title p{display: block;  font-family: "Alegreya Sans", sans-serif;
+    font-weight: 300;
+    font-style: normal;}
+
+#last{float: left; 
+    padding :12 60;
+     width: 50%; color: #ffffff50;
+   background-color: #403d38;}
+
+
+   #last-icon p{font-size: small;
+    color: #ffffff8c;}
+
+
+
+#last-icon a{color: #ffffffd7;
+    text-decoration: none;}
+
+
+#last-icon{ 
+    border-radius: 0%;
+     background-image: url(contact-details-map.png);
+    width: 50%;
+    padding:15 60;
+    background-color: #403d38;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    float: right ;  }
+
+    #last-icon img{margin-left: 70px;}
+
+   th{ 
+     color: aliceblue ;margin-left: 500px;}
+
+li{font-size: small;}
+
+
+
+
+.final{padding: 60;
+    background-color: #353330; 
+   
+    text-align: center;}
+
+.final p{color: #8e7754;}
+
+
+
